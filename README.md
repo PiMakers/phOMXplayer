@@ -1,1 +1,1 @@
-# phOMXplayer
+# phOMXplayer by Pepe
